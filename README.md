@@ -15,6 +15,8 @@ Controls:
 * Page up/down increases the matrix (eg from 3x3 to 4x4 press page up)
 * space starts automatic rotating
 
+[An example video can be found here](https://www.youtube.com/watch?v=lhyDFCJs7h8)
+
 The project has been developed and tested only on a 64 bit Linux Ubuntu machine with CMAKE.
 
 For a better understanding of magic squares and the algorithms behind them see
